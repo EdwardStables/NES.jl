@@ -1,0 +1,4 @@
+name = "emulator"
+uuid = "62152e31-6aa5-48f5-a68b-823dc9e472b7"
+authors = ["Ed Stables <edward.stables1198@gmail.com>"]
+version = "0.1.0"
